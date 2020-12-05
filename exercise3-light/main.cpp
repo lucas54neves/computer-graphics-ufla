@@ -54,7 +54,7 @@ void init(void) {
       // Especular
       { 1.f,  1.f,  1.f, 1.f },
       // Positicao
-      {1.f, 1.f, 0.f, 0.f}
+      {1.f, 0.f, 0.f, 1.f}
    };
 
    // Luz, Caracteristica, Endereco da primeira componente
